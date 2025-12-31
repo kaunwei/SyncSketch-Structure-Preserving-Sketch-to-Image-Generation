@@ -5,7 +5,7 @@ SyncSketch is a research-driven Generative AI framework designed to convert hand
 
 https://colab.research.google.com/drive/1e4Ez9ltLUzM9R3fbghbBel1Ukp0TcTHS?usp=sharing <br>
 
-![WhatsApp Image](https://raw.githubusercontent.com/USERNAME/REPO/main/images/whatsapp-image.jpeg)
+![WhatsApp Image 2025-12-31 at 12 57 43 AM](https://github.com/user-attachments/assets/2952944a-876b-48b9-8525-3ad789953499)
 
 # Project Summary
 
