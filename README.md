@@ -1,5 +1,12 @@
 # SyncSketch-Structure-Preserving-Sketch-to-Image-Generation
 SyncSketch is a research-driven Generative AI framework designed to convert hand-drawn furniture sketches into photorealistic renders while strictly preserving the original geometric structure.<br>
+
+# Colab File Link
+
+https://colab.research.google.com/drive/1e4Ez9ltLUzM9R3fbghbBel1Ukp0TcTHS?usp=sharing <br>
+
+![Uploading WhatsApp Image 2025-12-31 at 12.57.43 AM.jpeg…]()
+
 # Project Summary
 
 SyncSketch is a Generative AI project focused on converting hand-drawn furniture sketches into photorealistic images while strictly preserving the original geometric structure.<br><br>
@@ -20,3 +27,34 @@ This approach minimizes creative deviation and prevents common issues such as al
 - Optimization: Tuned conditioning scale for strong geometry preservation
 - Inference: Faster sampling using UniPC Multistep Scheduler
 
+<br>
+# Dataset
+
+Sketch2Image Furniture Dataset (Kaggle)<br>
+Categories: Chairs, Tables, Cabinets<br>
+<br>
+# Dataset link:
+https://www.kaggle.com/datasets/robinrausch/sketch2image-dataset-furniture<br>
+<br>
+# Results (Highlights)
+
+- Average edge alignment fidelity: 84.5%
+- Significant improvement over GAN-based methods
+- Strong preservation of thin and precise structures
+- Reduced inference time compared to standard diffusion pipelines
+<br>
+ # Technologies Used
+
+- Python
+- PyTorch
+- Stable Diffusion
+- ControlNet
+- OpenCV (Canny Edge Detection)
+- Diffusion Models
+
+# Author
+Ayesha Khan
+AI/ML Researcher
+
+For any inquiries, please feel free to contact me via email.
+ayesha156781@gmail.com
