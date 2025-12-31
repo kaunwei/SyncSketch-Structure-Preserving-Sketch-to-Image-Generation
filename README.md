@@ -5,7 +5,7 @@ SyncSketch is a research-driven Generative AI framework designed to convert hand
 
 https://colab.research.google.com/drive/1e4Ez9ltLUzM9R3fbghbBel1Ukp0TcTHS?usp=sharing <br>
 
-![Uploading WhatsApp Image 2025-12-31 at 12.57.43 AM.jpeg…]()
+![WhatsApp Image](https://raw.githubusercontent.com/USERNAME/REPO/main/images/whatsapp-image.jpeg)
 
 # Project Summary
 
@@ -27,7 +27,7 @@ This approach minimizes creative deviation and prevents common issues such as al
 - Optimization: Tuned conditioning scale for strong geometry preservation
 - Inference: Faster sampling using UniPC Multistep Scheduler
 
-<br>
+
 # Dataset
 
 Sketch2Image Furniture Dataset (Kaggle)<br>
@@ -42,7 +42,7 @@ https://www.kaggle.com/datasets/robinrausch/sketch2image-dataset-furniture<br>
 - Significant improvement over GAN-based methods
 - Strong preservation of thin and precise structures
 - Reduced inference time compared to standard diffusion pipelines
-<br>
+
  # Technologies Used
 
 - Python
